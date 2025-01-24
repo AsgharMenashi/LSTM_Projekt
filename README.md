@@ -9,3 +9,7 @@ OPS: Den fylder 800 mb.
 http://downloads.cs.stanford.edu/nlp/data/glove.6B.zip
 
 Alt koden findes i Jupyter Notebook filen, hvor der er kommentarer undervejs der adskiller de forskellige ting.
+
+
+Datasættet med tweetsne findes her:
+https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech

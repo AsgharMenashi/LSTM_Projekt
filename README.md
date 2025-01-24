@@ -7,3 +7,5 @@ En af zip filerne jeg anvendte var for stor til at uploade der, men den kan down
 OPS: Den fylder 800 mb.
 
 http://downloads.cs.stanford.edu/nlp/data/glove.6B.zip
+
+Alt koden findes i Jupyter Notebook filen, hvor der er kommentarer undervejs der adskiller de forskellige ting.
